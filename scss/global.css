@@ -1,0 +1,30 @@
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: a color-navy;
+}
+
+body {
+  font-family: "Open Sans", "Roboto", Arial, sans-serif;
+}
+
+.button {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  background-color: #01ACEE;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=global.css.map */
